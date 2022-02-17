@@ -3,4 +3,4 @@ def minus(a, b):
 
 
 def test_minus():
-    assert add(1, 2) == -1
+    assert minus(1, 2) == -1
